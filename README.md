@@ -1,2 +1,2 @@
 # deep_learning_cost_function
-Created a cost function using basic deep learning algorithms.
+Created a cost function using basic deep learning algorithms. Using the dogs and cats images dataset from kaggle, built a simple logistic regression classifier to differentiate between cat and dog images. 
